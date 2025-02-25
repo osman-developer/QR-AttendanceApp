@@ -6,7 +6,6 @@ This project is a **Full Stack Attendance Management System** designed to manage
 
 ## Table of Contents
 - [Overview](#overview)
-- [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
