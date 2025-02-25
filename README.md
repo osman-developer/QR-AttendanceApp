@@ -11,9 +11,7 @@ This project is a **Full Stack Attendance Management System** designed to manage
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [Database Schema](#database-schema)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
